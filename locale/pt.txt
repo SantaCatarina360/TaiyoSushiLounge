@@ -1,0 +1,54 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_7AA4C1D1_6726_252E_4186_91F168800FEF.source = HTTPS://WA.ME/48992041590
+LinkBehaviour_706C65AD_67E2_6D77_41D0_D7CA555EA712.source = HTTPS://WA.ME/48992041590
+PopupWebFrameBehaviour_7E651DC4_67E6_1D36_41C7_3022873010BC.url = https://deliverydireto.com.br/taiyosushilounge/taiyosushilounge?dd=menu
+PopupWebFrameBehaviour_7AA9B1CF_6726_2532_41D5_7DD2F93D226F.url = https://deliverydireto.com.br/taiyosushilounge/taiyosushilounge?dd=menu
+LinkBehaviour_73247ED4_67EE_7CD5_41D0_5DD6840ACFFA.source = https://maps.app.goo.gl/igWbNKENrqW8JCM77
+LinkBehaviour_7AA401D2_6726_24D2_41C0_3419E17DCEE5.source = https://maps.app.goo.gl/igWbNKENrqW8JCM77
+PopupWebFrameBehaviour_7AA491CE_6726_2532_41D7_91DA6016CDA3.url = https://reservation-widget.tagme.com.br/smartlink/645b9ee793c09d0056175e64
+PopupWebFrameBehaviour_7319E31E_67E6_2552_41C2_A72CEEACB309.url = https://reservation-widget.tagme.com.br/smartlink/645b9ee793c09d0056175e64
+
+## Media
+
+### Audio
+audiores_710CEE0A_67E2_3F32_41CB_429C80E08D6B.mp3Url = media/audio_7E26466D_67FE_2FF7_41D2_C742AE52EC41_pt.mp3
+
+### Title
+panorama_6A24A641_677E_6F2E_41D5_ADE5BC557A5B.label = 1
+panorama_6D39DDE8_677E_1CFD_41D6_62ED48EE2664.label = 2
+panorama_6D3ED8F5_677E_24D7_41BE_74D0E2D4279B.label = 3
+panorama_6D3D0A6B_677E_27F3_41AC_480AAAA6CF05.label = 4
+panorama_740CDC93_6762_6353_41D3_92743A8EE221.label = 5
+panorama_6AA4303B_6762_2352_419A_B569C09DB5D2.label = 6
+panorama_6D3E510A_677E_253D_419A_89A26C49E7DE.label = 7
+panorama_6D3D53C7_677E_6532_41D7_2A786C40BB15.label = 8
+panorama_6D3DF4F7_677E_6CD2_41D5_646C0A624838.label = 9
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = LOCALIZAÇÃO
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = LOCALIZAÇÃO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PEDIDOS
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PEDIDOS
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = RESERVAS
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = RESERVAS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = WHATSAPP
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = WHATSAPP
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_pt.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_pt.png
+Image_70A7E00B_67E2_2333_41B5_1B5A4D165674_mobile.url = skin/Image_70A7E00B_67E2_2333_41B5_1B5A4D165674_mobile_pt.png
+Image_70A7E00B_67E2_2333_41B5_1B5A4D165674.url = skin/Image_70A7E00B_67E2_2333_41B5_1B5A4D165674_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tayio Sushi
