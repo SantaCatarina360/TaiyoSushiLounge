@@ -3,22 +3,23 @@
 ## Action
 
 ### URL
-LinkBehaviour_7AA4C1D1_6726_252E_4186_91F168800FEF.source = HTTPS://WA.ME/48992041590
 LinkBehaviour_706C65AD_67E2_6D77_41D0_D7CA555EA712.source = HTTPS://WA.ME/48992041590
-PopupWebFrameBehaviour_7E651DC4_67E6_1D36_41C7_3022873010BC.url = https://deliverydireto.com.br/taiyosushilounge/taiyosushilounge?dd=menu
+LinkBehaviour_7AA4C1D1_6726_252E_4186_91F168800FEF.source = HTTPS://WA.ME/48992041590
 PopupWebFrameBehaviour_7AA9B1CF_6726_2532_41D5_7DD2F93D226F.url = https://deliverydireto.com.br/taiyosushilounge/taiyosushilounge?dd=menu
-LinkBehaviour_73247ED4_67EE_7CD5_41D0_5DD6840ACFFA.source = https://maps.app.goo.gl/igWbNKENrqW8JCM77
+PopupWebFrameBehaviour_7E651DC4_67E6_1D36_41C7_3022873010BC.url = https://deliverydireto.com.br/taiyosushilounge/taiyosushilounge?dd=menu
 LinkBehaviour_7AA401D2_6726_24D2_41C0_3419E17DCEE5.source = https://maps.app.goo.gl/igWbNKENrqW8JCM77
+LinkBehaviour_73247ED4_67EE_7CD5_41D0_5DD6840ACFFA.source = https://maps.app.goo.gl/igWbNKENrqW8JCM77
 PopupWebFrameBehaviour_7AA491CE_6726_2532_41D7_91DA6016CDA3.url = https://reservation-widget.tagme.com.br/smartlink/645b9ee793c09d0056175e64
 PopupWebFrameBehaviour_7319E31E_67E6_2552_41C2_A72CEEACB309.url = https://reservation-widget.tagme.com.br/smartlink/645b9ee793c09d0056175e64
+LinkBehaviour_41E9AEF6_6522_7CD5_41CF_E30FEC595C0C.source = https://www.instagram.com/taiyosushilounge_/reels/
 
 ## Media
 
 ### Audio
-audiores_710CEE0A_67E2_3F32_41CB_429C80E08D6B.mp3Url = media/audio_7E26466D_67FE_2FF7_41D2_C742AE52EC41_pt.mp3
+audiores_46995506_6567_ED32_41D6_A9C8E7FF814D.mp3Url = media/audio_463BBF11_6566_1D2F_41CC_542E946E3785_pt.mp3
 
 ### Title
-panorama_6A24A641_677E_6F2E_41D5_ADE5BC557A5B.label = 1
+panorama_7A554163_6566_25F2_41C7_7CBBBC399E8A.label = 1.
 panorama_6D39DDE8_677E_1CFD_41D6_62ED48EE2664.label = 2
 panorama_6D3ED8F5_677E_24D7_41BE_74D0E2D4279B.label = 3
 panorama_6D3D0A6B_677E_27F3_41AC_480AAAA6CF05.label = 4
@@ -27,12 +28,36 @@ panorama_6AA4303B_6762_2352_419A_B569C09DB5D2.label = 6
 panorama_6D3E510A_677E_253D_419A_89A26C49E7DE.label = 7
 panorama_6D3D53C7_677E_6532_41D7_2A786C40BB15.label = 8
 panorama_6D3DF4F7_677E_6CD2_41D5_646C0A624838.label = 9
+video_7948A1B1_657F_E56E_41B9_71F81FB032E3.label = sushi Taiyo (1)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_0.label = sushi Taiyo (1)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_9.label = sushi Taiyo (10)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_10.label = sushi Taiyo (11)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_11.label = sushi Taiyo (12)
+video_7A5EA766_657F_EDF5_41C0_3175657ADC09.label = sushi Taiyo (2)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_1.label = sushi Taiyo (2)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_2.label = sushi Taiyo (3)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_3.label = sushi Taiyo (4)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_4.label = sushi Taiyo (5)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_5.label = sushi Taiyo (6)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_6.label = sushi Taiyo (7)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_7.label = sushi Taiyo (8)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669_8.label = sushi Taiyo (9)
+album_44C041AF_657E_2573_41D0_E8D82A2AD669.label = Álbum de Fotos sushi Taiyo (1)
+
+### Video
+videolevel_4005FEE2_6526_3CF2_41D0_EEB050B647A6.posterURL = media/video_7948A1B1_657F_E56E_41B9_71F81FB032E3_poster_pt.jpg
+videolevel_4005FEE2_6526_3CF2_41D0_EEB050B647A6.url = media/video_7948A1B1_657F_E56E_41B9_71F81FB032E3_pt.mp4
+videolevel_400B7F14_6526_3D56_418E_42A95B5AB9DE.posterURL = media/video_7A5EA766_657F_EDF5_41C0_3175657ADC09_poster_pt.jpg
+videolevel_400B7F14_6526_3D56_418E_42A95B5AB9DE.url = media/video_7A5EA766_657F_EDF5_41C0_3175657ADC09_pt.mp4
+
+### Video Subtitles
 
 ## Skin
 
 ### Button
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = LOCALIZAÇÃO
+Button_41E7EEF5_6522_7CD7_41C1_2B5D428883B4.label = INSTAGRAM
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = LOCALIZAÇÃO
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = LOCALIZAÇÃO
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PEDIDOS
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PEDIDOS
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = RESERVAS
